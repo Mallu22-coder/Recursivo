@@ -4,8 +4,8 @@ Algumas aulas sobre recusão
 * Aulas:
         
      *  153 - [Imprimindo valores de n até 0](https://github.com/Mateusvct1/Recursivo/blob/main/Curso_de_programa%C3%A7%C3%A3o_C/Aula153.c);
-     *  154 - [Como funciona um processo recursivo](https://github.com/Mateusvct1/Recursivo/blob/main/Curso_de_programa%C3%A7%C3%A3o_C/Aula155.c);
-     *  155 - Fatorial com recursão;
+     *  154 - Como funciona um processo recursivo;
+     *  155 - [Fatorial com recursão](https://github.com/Mateusvct1/Recursivo/blob/main/Curso_de_programa%C3%A7%C3%A3o_C/Aula155.c);
      
 #### Bibliografia
 
