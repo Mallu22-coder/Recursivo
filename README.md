@@ -9,7 +9,7 @@ Algumas aulas sobre recusão
      *  156 - Funcionamento da recursão para calcular o fatorial;
      *  157 - [Sequência de Fibonacci](https://github.com/Mateusvct1/Recursivo/blob/main/Curso_de_programa%C3%A7%C3%A3o_C/Aula157.c);
      *  158 - Avaliando a função Fibonacci;
-     *  Extra - {Conteúdo extra de fibonnaci sem recursão]()
+     *  Extra - [Conteúdo extra de fibonnaci sem recursão](https://github.com/Mateusvct1/Recursivo/blob/main/Extras/fibonacci.c)
      
 #### Bibliografia
 
