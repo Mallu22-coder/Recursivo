@@ -27,3 +27,5 @@ int main(){
 
     return 0;
 }
+
+//o metodo recursivo de fibonacci não é recomendavel, pois ele demorar muito.
