@@ -1,6 +1,7 @@
 // Cálculo do enésimo termo da sequência de Fibonacci
 // indices: 1 2 3 4 5 6 7 8  9  10...
 // némeros: 0 1 1 2 3 5 8 13 21 34 ...
+#include <stdio.h>
 
 int Fibonacci(int x){
 
@@ -15,7 +16,6 @@ int Fibonacci(int x){
         }
     }
 }
-#include <stdio.h>
 int main(){
     int n;
 
