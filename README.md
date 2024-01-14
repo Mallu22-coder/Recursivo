@@ -9,6 +9,7 @@ Algumas aulas sobre recusão
      *  156 - Funcionamento da recursão para calcular o fatorial;
      *  157 - [Sequência de Fibonacci](https://github.com/Mateusvct1/Recursivo/blob/main/Curso_de_programa%C3%A7%C3%A3o_C/Aula157.c);
      *  158 - Avaliando a função Fibonacci;
+     *  Extra - {Conteúdo extra de fibonnaci sem recursão]()
      
 #### Bibliografia
 
@@ -24,3 +25,4 @@ Disponível em: [Calcular o enésimo termo da sequência de FIBONACCI com recurs
 
 Disponível em: [Porque você não deve usar FIBONACCI RECURSIVO! | Aula 158 | Aula 157](https://www.youtube.com/watch?v=nEuMO0Yqm1U&ab_channel=Programeseufuturo). Acesso 14. de Jan. 2024.
 
+Disponível em: [Linguagem C - Exercício: Fibonacci (2022)](https://www.youtube.com/watch?v=_CErwzBtipA&ab_channel=PietroMartinsDeOliveira). Acesso 14. de Jan. 2024.
