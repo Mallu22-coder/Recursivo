@@ -11,7 +11,7 @@ Algumas aulas sobre recusão
      *  158 - Avaliando a função Fibonacci;
      *  Extra - [Conteúdo extra de fibonnaci sem recursão](https://github.com/Mateusvct1/Recursivo/blob/main/Extras/fibonacci.c)
      
-#### Bibliografia
+#### Referência
 
 Disponível em: [Curso de Programação C | Funções e procedimentos recursivos com a linguagem C | Aula 153](https://www.youtube.com/watch?v=hEHAKk-bs54&ab_channel=Programeseufuturo). Acesso 12. de Jan. 2024.
 
