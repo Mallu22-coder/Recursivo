@@ -1,5 +1,5 @@
 # Procedimento recursivo com a linguagem C
-Algumas aulas sobre recusão
+## Algumas aulas sobre recusão
 
 * Aulas:
         
